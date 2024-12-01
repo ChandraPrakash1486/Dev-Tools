@@ -1,2 +1,1 @@
-# Dev-Tools
-Repository Consists of Open Source Dev Tools built by me and improved by us.
+A collection of open-source development tools created by me and continually enhanced by our community.
